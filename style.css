@@ -1,7 +1,7 @@
 /* General body styles */
 body {
   font-family: "Open Sans", sans-serif;
-  padding: 20px;
+  padding: 15px;
   background-color: #f1f1f1;
   font-size: 18px;
 }
@@ -38,7 +38,7 @@ th {
 
 /* Table cell styles */
 td {
-  padding: 8px;
+  padding: 4px;
   border: 1px solid #ddd;
   text-align: left;
    word-break: break-word;
@@ -90,7 +90,7 @@ p {
   }
 
   th, td {
-    padding: 6px;
+    padding: 2px;
     font-size: 14px;
   }
 }
